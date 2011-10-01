@@ -17,10 +17,10 @@
 
 ;; Created: Sat Oct  1 03:07:18 2011 (+0800)
 ;; Version: 0.1
-;; Last-Updated: Sat Oct  1 17:04:34 2011 (+0800)
+;; Last-Updated: Sat Oct  1 17:30:29 2011 (+0800)
 ;;           By: Le Wang
-;;     Update #: 22
-;;          URL: https://github.com/lewang/le_emacs_libs/blob/master/scf-mode.el
+;;     Update #: 23
+;;          URL: https://github.com/lewang/scf-mode
 ;; Keywords: compilation
 ;; Compatibility: Emacs23.3+
 
