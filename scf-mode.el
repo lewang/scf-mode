@@ -17,9 +17,9 @@
 
 ;; Created: Sat Oct  1 03:07:18 2011 (+0800)
 ;; Version: 0.1
-;; Last-Updated: Sat Oct  1 17:30:29 2011 (+0800)
+;; Last-Updated: Sat Oct  1 17:33:36 2011 (+0800)
 ;;           By: Le Wang
-;;     Update #: 23
+;;     Update #: 24
 ;;          URL: https://github.com/lewang/scf-mode
 ;; Keywords: compilation
 ;; Compatibility: Emacs23.3+
@@ -29,10 +29,9 @@
 ;;    (require 'scf-mode)
 ;;    (define-key grep-mode-map [(s)] 'scf-mode)
 ;;
-;; Optional:
-;;
-;; To shorten grep output automatically:
-;;
+
+;;; [optional] to shorten grep output automatically:
+
 ;;    (add-hook 'grep-mode-hook (lambda () (scf-mode 1)))
 ;;
 
