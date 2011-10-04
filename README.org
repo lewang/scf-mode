@@ -1,10 +1,6 @@
-* Purpose
+* shorten-compilation-filename
 
-#+begin_example
-,-----------------------------
-| shorten-compilation-filename
-`-----------------------------
-#+end_example
+** Purpose
 
 Shorten file-names found in compilation type buffers (e.g. grep output).
 Linking still works, only the directory is hidden.
@@ -13,6 +9,6 @@ This package is implemented as a minor-mode, /scf-mode/ (scf stands for
 shorten-compilation-filename).  When the minor-mode is turned off, file-names
 are restored.
 
-* Installation
+** Installation
 
 See library header.
