@@ -1,9 +1,15 @@
 * Purpose
 
-Shorten file-names found in compilation output.  Linking still works, just the
-directory part of the file-name is hidden.
+#+begin_example
+,-----------------------------
+| shorten-compilation-filename
+`-----------------------------
+#+end_example
 
-This package is implemented as a minor-mode, /scf-mode/ (scp stands for
+Shorten file-names found in compilation type buffers (e.g. grep output).
+Linking still works, only the directory is hidden.
+
+This package is implemented as a minor-mode, /scf-mode/ (scf stands for
 shorten-compilation-filename).  When the minor-mode is turned off, file-names
 are restored.
 

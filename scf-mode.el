@@ -17,9 +17,9 @@
 
 ;; Created: Sat Oct  1 03:07:18 2011 (+0800)
 ;; Version: 0.1
-;; Last-Updated: Sat Oct  1 17:33:36 2011 (+0800)
+;; Last-Updated: Tue Oct  4 13:39:53 2011 (+0800)
 ;;           By: Le Wang
-;;     Update #: 24
+;;     Update #: 25
 ;;          URL: https://github.com/lewang/scf-mode
 ;; Keywords: compilation
 ;; Compatibility: Emacs23.3+
@@ -37,8 +37,7 @@
 
 ;;; Commentary:
 
-;; Shorten long file-name targets to the basename without directories for
-;; easier reading.
+;; Shorten long file-name targets to just the `base-name' without directories
 ;;
 ;; I only show how to install in `grep-mode', but scf-mode should work for all
 ;; compilation-mode derived major-modes.
