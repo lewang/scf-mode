@@ -155,4 +155,4 @@ overlay onto `scf-invisible-overlays'."
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; scf-mode.el ends here
+;;; scf-mode.el ends here
